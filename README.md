@@ -1,4 +1,4 @@
-#                                                                               Hi, I'm Alex! :
+#                                                                               <center>Hi, I'm Alex!</center>
 
 A front-end developer from Rio de Janeiro, Brazil
 
