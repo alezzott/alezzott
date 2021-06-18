@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi, I'm Alex!
+  :computer: Hi, I'm Alex! :books:
   </h1>
   
  <p align='center'>
