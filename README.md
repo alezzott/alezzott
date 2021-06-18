@@ -18,5 +18,10 @@ A front-end developer from Rio de Janeiro, Brazil
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alezzott&show_icons=true&theme=chartreuse-dark" width="350"></a>
 </p>
 
+<p align='center'>
+  :house: Contatct: <a href='mailto:faustino.alex@outlook.com'>faustino.alex@outlook.com</a> 
+</p>
+
+
 
 
