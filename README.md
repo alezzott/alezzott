@@ -3,7 +3,7 @@
   </h1>
   
  <p align='center'>
-A front-end developer from Rio de Janeiro, Brazil
+A Back-end developer from Rio de Janeiro, Brazil
   I'm 26 years old, I like Video Games 🎮 and especially Chess ♟️. I spend most of my time programming and learning new technology. 💻 🔰
   </p>
 
