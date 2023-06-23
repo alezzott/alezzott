@@ -23,8 +23,8 @@ A Back-end developer from Rio de Janeiro, Brazil
   </h1>
      
 <p align='center'>
-   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alezzott&show_icons=true&theme=chartreuse-dark" width="400"></a>
-   <a href="3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezzott&layout=compact&langs_count=5&theme=chartreuse-dark" width="400"></a>
+   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alezzott&show_icons=true&theme=dracula" width="400"></a>
+   <a href="3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezzott&layout=compact&langs_count=5&theme=dracula" width="400"></a>
 </p>
      
      
