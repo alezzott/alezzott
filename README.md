@@ -21,14 +21,19 @@ A Back-end developer from Rio de Janeiro, Brazil
 <img  width="49" src="https://www.svgrepo.com/show/331488/mongodb.svg">
 <img  width="48" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
   </h1>
+  
 
 <h1 align="center">Studying</h1>
 <h1 align="center">
   <img width=48 src="https://cdn.worldvectorlogo.com/logos/cakephp-1.svg">
   <img width=48 src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
 </h1>
+
+<h1 align="center">
+  <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966">
+</h1>
      
-<p align='center'>
+<p align='center' style="padding-top: 60px;">
    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alezzott&show_icons=true&theme=dracula" width="400"></a>
    <a href="3"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alezzott&layout=compact&langs_count=5&theme=dracula" width="400"></a>
 </p>
