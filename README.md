@@ -28,11 +28,3 @@ A Back-end developer from Rio de Janeiro, Brazil
 </p>
      
      
-
-<p align='center'>
-  :house: Contatct: <a href='mailto:faustino.alex@outlook.com'>faustino.alex@outlook.com</a> 
-</p>
-
-
-
-
