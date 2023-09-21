@@ -15,10 +15,13 @@ A Back-end developer from Rio de Janeiro, Brazil. I like Video Games 🎮 and es
 <img  width="48" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
 <img  width="48" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 <img  width="48" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-<img  width="48" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
+<img  width="48" src="https://cdn.worldvectorlogo.com/logos/sass-1.svg">
 <img  width="48" src="https://bourhaouta.gallerycdn.vsassets.io/extensions/bourhaouta/tailwindshades/0.0.5/1592520164095/Microsoft.VisualStudio.Services.Icons.Default">
 <img  width="49" src="https://www.svgrepo.com/show/331488/mongodb.svg">
 <img  width="48" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+<img width=48 src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
+<img width=48 src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+  
   </h1>
   
 
@@ -26,6 +29,8 @@ A Back-end developer from Rio de Janeiro, Brazil. I like Video Games 🎮 and es
 <h1 align="center">
   <img width=48 src="https://cdn.worldvectorlogo.com/logos/cakephp-1.svg">
   <img width=48 src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+  <img width=48 src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
+  
 </h1>
 
 <h1 align="center">
