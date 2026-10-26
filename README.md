@@ -3,7 +3,7 @@
   </h1>
   
  <p align='center'>
-A Back-end developer from Rio de Janeiro, Brazil. I like Video Games 🎮 and especially Chess ♟️. I spend most of my time programming and learning new technology. 💻 🔰
+A Front-end developer from Rio de Janeiro, Brazil. I like Video Games 🎮 and especially Chess ♟️. I spend most of my time programming and learning new technology. 💻
   </p>
 
 
